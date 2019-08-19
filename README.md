@@ -1,6 +1,7 @@
 # Credit-Card-Fraud-Detection
 A simple Credit Card Fraud Detection Model for detecting the card whether it is valid or fraud. I used Jupyter Notebook.
-I downloaded the dataset from kaggle but you can have it from here as i uploaded it with jupyter notebook file.
+I downloaded the dataset from kaggle https://www.kaggle.com/mlg-ulb/creditcardfraud/downloads/creditcardfraud.zip/3 
+You can also download it from this link.
 This is a unsupervised learning problem thats why i used two Unsupervised machine learning algorithms.
 1-Local Outlier Factor (LOF).
 2-Isolation Forest Algorithm.
